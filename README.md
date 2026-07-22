@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naaattttt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naaa-ttttttt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Systems+Architect;Low-Level+Programming+%E2%80%A2+Rust+%E2%80%A2+Distributed+Systems;AI+Researcher+%7C+Building+for+the+Metal" alt="Typing SVG" />
@@ -8,10 +8,14 @@
 
 I'm a Software Engineer specializing in low-level, systems-level programming — building software that operates close to the metal rather than on top of it. I design and reason about distributed systems, work at the intersection of systems architecture and AI research, and write Rust as my primary implementation language.
 
+$ while(true) { understand_the_metal(); }
+no frameworks. no shortcuts. just the machine.
+memory • registers • syscalls • silence
+
 ## 🧠 Core Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,linux,docker,git,github,bash,vim" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+while(true)+%7B+understand_the_metal()%3B+%7D;no+frameworks.+no+shortcuts.+just+the+machine.;memory+%E2%80%A2+registers+%E2%80%A2+syscalls+%E2%80%A2+silence" alt="Terminal SVG" />
 </p>
 
 - **Systems Programming:** Rust, async/concurrency (Tokio), networking (WebSockets, TCP/UDP), concurrent data structures (`Arc<Mutex<...>>`, channels)
