@@ -8,14 +8,18 @@
 
 I'm a Software Engineer specializing in low-level, systems-level programming — building software that operates close to the metal rather than on top of it. I design and reason about distributed systems, work at the intersection of systems architecture and AI research, and write Rust as my primary implementation language.
 
-$ while(true) { understand_the_metal(); }
-no frameworks. no shortcuts. just the machine.
-memory • registers • syscalls • silence
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+while(true)+%7B+understand_the_metal()%3B+%7D;no+frameworks.+no+shortcuts.+just+the+machine.;memory+%E2%80%A2+registers+%E2%80%A2+syscalls+%E2%80%A2+silence" alt="Terminal SVG" />
+</p>
 
 ## 🧠 Core Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+while(true)+%7B+understand_the_metal()%3B+%7D;no+frameworks.+no+shortcuts.+just+the+machine.;memory+%E2%80%A2+registers+%E2%80%A2+syscalls+%E2%80%A2+silence" alt="Terminal SVG" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,c,linux,docker,git,github,bash,vim,neovim" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naaa-ttttttt&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 - **Systems Programming:** Rust, async/concurrency (Tokio), networking (WebSockets, TCP/UDP), concurrent data structures (`Arc<Mutex<...>>`, channels)
@@ -37,6 +41,23 @@ memory • registers • syscalls • silence
 - 🧭 Long-term trajectory: systems architecture → OS internals → blockchain
 - 🔁 Daily reps over motivation — commits happen whether I feel like it or not
 - 🙏 Faith-driven, discipline-built
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naaa-ttttttt&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naaa-ttttttt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naaa-ttttttt&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naaa-ttttttt&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naaa-ttttttt&theme=react-dark&hide_border=true" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naaa-ttttttt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
