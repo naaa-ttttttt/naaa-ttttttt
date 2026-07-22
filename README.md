@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Natty&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naaattttt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Systems+Architect;Low-Level+Programming+%E2%80%A2+Rust+%E2%80%A2+Distributed+Systems;AI+Researcher+%7C+Building+for+the+Metal" alt="Typing SVG" />
