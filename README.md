@@ -18,9 +18,6 @@ I'm a Software Engineer specializing in low-level, systems-level programming —
   <img src="https://skillicons.dev/icons?i=rust,c,linux,docker,git,github,bash,vim,neovim" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=naaa-ttttttt&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 - **Systems Programming:** Rust, async/concurrency (Tokio), networking (WebSockets, TCP/UDP), concurrent data structures (`Arc<Mutex<...>>`, channels)
 - **Systems Architecture:** Distributed systems design — caching, sharding, consistent hashing, CAP theorem, B-trees/LSM trees, distributed locks
@@ -59,7 +56,4 @@ I'm a Software Engineer specializing in low-level, systems-level programming —
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naaa-ttttttt&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naaa-ttttttt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naaa-ttttttt&theme=dark&hide_border=true" height="165"/>
-</p>
+
