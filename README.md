@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naaattttt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Naaa-ttttttt&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Systems+Architect;Low-Level+Programming+%E2%80%A2+Rust+%E2%80%A2+Distributed+Systems;AI+Researcher+%7C+Building+for+the+Metal" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&repeat=true&width=750&lines=Software+Engineer+%7C+Systems+Architect;Low-Level+Programming+%E2%80%A2+Rust+%E2%80%A2+Distributed+Systems;AI+Researcher+%7C+Building+for+the+Metal" alt="Typing SVG" /></p>
 
 ## ⚙️ About Me
 
 I'm a Software Engineer specializing in low-level, systems-level programming — building software that operates close to the metal rather than on top of it. I design and reason about distributed systems, work at the intersection of systems architecture and AI research, and write Rust as my primary implementation language.
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+while(true)+%7B+understand_the_metal()%3B+%7D;no+frameworks.+no+shortcuts.+just+the+machine.;memory+%E2%80%A2+registers+%E2%80%A2+syscalls+%E2%80%A2+silence" alt="Terminal SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%24+while(true)+%7B+understand_the_metal()%3B+%7D;no+frameworks.+no+shortcuts.+just+the+machine.;memory+%E2%80%A2+registers+%E2%80%A2+syscalls+%E2%80%A2+silence" alt="Terminal SVG" /></p>
 
 ## 🧠 Core Stack
 
@@ -34,7 +34,7 @@ I'm a Software Engineer specializing in low-level, systems-level programming —
 - 🔁 Daily reps over motivation — commits happen whether I feel like it or not
 - 🙏 Faith-driven, discipline-built
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=naaa-ttttttt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=naaa-ttttttt&theme=dark&hide_border=true" height="165"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=naaa-ttttttt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/><img src="https://streak-stats.demolab.com/?user=naaa-ttttttt&theme=dark&hide_border=true" height="165"/></p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=naaa-ttttttt&theme=darkhub&no-frame=true&row=1&column=6" /></p>
 
